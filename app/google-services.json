@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "942737838936",
+    "firebase_url": "https://geofire-pingo.firebaseio.com",
+    "project_id": "geofire-pingo",
+    "storage_bucket": "geofire-pingo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942737838936:android:8788a544111098e2",
+        "android_client_info": {
+          "package_name": "com.ezerka.pingo.mapfunctionality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942737838936-rfs7h2td7ij2lp1bsnddpfhh4sbe36o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-xRWqRYywNMArGXo6rMlziIiplLQPks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
